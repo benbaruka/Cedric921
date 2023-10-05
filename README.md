@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Cedric+Karungu" alt="Cedric921" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Ben+Ickah" alt="benbaruka" /></h1>
 
 <h5 align="center"><em>A passionate fulstack developer </em></h5>
 
@@ -26,26 +26,20 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td><a href="https://github.com/Cedric921/food-delivrery"><b>Quiz App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/benbaruka/food-delivrery"><b>Quiz App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/benbaruka/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/benbaruka/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/benbaruka/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/benbaruka/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Cedric921/food-delivrery"><b>admin_dashboard</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/blog?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/Task_tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/benbaruka/food-delivrery"><b>admin_dashboard</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/benbaruka/blog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/benbaruka/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/benbaruka/Task_tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/benbaruka/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
     </tr>
-     <tr>
-      <td><a href="https://github.com/Cedric921/attendancy-gda"><b>Attendancy</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Bam92/attendancy-gda?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Bam92/attendancy-gda?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bam92/attendancy-gda?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Bam92/attendancy-gda?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+    
   </tbody>
   
 </table>
@@ -58,12 +52,12 @@
     align="left"
     width="45%"
     alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=benbaruka&show_icons=true&theme=radical"
   />
   <img
     width="45%"
     alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric921&show_icons=true&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaruka&show_icons=true&theme=radical&layout=compact"
   />
 </p>
 
@@ -72,13 +66,13 @@
     width="45%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=Cedric921&theme=radical&no-frame=true&column=3&row=2"
+    src="https://github-profile-trophy.vercel.app/?username=benbaruka&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
     width="45%"
     height="200"
     alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=benbaruka&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
 </p>
 
@@ -230,8 +224,8 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{cedric921}/count.svg" alt="roland :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{benbaruka}/count.svg" alt="roland :: Visitor's Count" /></p>
 
-[![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=cedric921&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/cedric921/github-readme-activity-graph)
+[![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=benbaruka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/benbaruka/github-readme-activity-graph)
 <br/>
 <br/>
