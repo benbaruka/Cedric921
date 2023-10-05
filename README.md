@@ -24,7 +24,7 @@
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
-  <tbody align="center">
+<!--   <tbody align="center">
     <tr>
       <td><a href="https://github.com/benbaruka/food-delivrery"><b>Quiz App</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/benbaruka/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
@@ -39,8 +39,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/benbaruka/Task_tracker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/benbaruka/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    
-  </tbody>
+    </tbody> -->
   
 </table>
 
