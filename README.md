@@ -13,35 +13,7 @@
  ⚡ "*build your futur in technology*"
 
 
-<h2>Open source projects</h2>
-<table align="center">
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-<!--   <tbody align="center">
-    <tr>
-      <td><a href="https://github.com/benbaruka/food-delivrery"><b>Quiz App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/benbaruka/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/benbaruka/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/benbaruka/GDA_QuizApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/benbaruka/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/benbaruka/food-delivrery"><b>admin_dashboard</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/benbaruka/blog?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/benbaruka/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/benbaruka/Task_tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/benbaruka/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    </tbody> -->
-  
-</table>
+
 
 
 ## My Github Stats
