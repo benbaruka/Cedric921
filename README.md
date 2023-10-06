@@ -197,6 +197,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{benbaruka}/count.svg" alt="roland :: Visitor's Count" /></p>
 
-[![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=benbaruka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/benbaruka/github-readme-activity-graph)
+[![Ben ickah's github activity graph](https://activity-graph.herokuapp.com/graph?username=benbaruka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/benbaruka/github-readme-activity-graph)
 <br/>
 <br/>
