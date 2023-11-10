@@ -15,7 +15,7 @@
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
-<table align="left">
+<table align="left" style="margin-bottom:30px">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
