@@ -13,41 +13,6 @@
  ⚡ "*build your futur in technology*"
 
 
-
-
-
-## My Github Stats
-
-<p>
-  <img
-    align="left"
-    width="45%"
-    alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=benbaruka&show_icons=true&theme=radical"
-  />
-  <img
-    width="45%"
-    alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaruka&show_icons=true&theme=radical&layout=compact"
-  />
-</p>
-
-<p>
-  <img
-    width="45%"
-    height="200"
-    alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=benbaruka&theme=radical&no-frame=true&column=3&row=2"
-  />
-  <img
-    width="45%"
-    height="200"
-    alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=benbaruka&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
-  />
-</p>
-
-
 <h2 align="center">🛠 Languages and Tools:</h2>
 
 <table align="center">
