@@ -154,9 +154,7 @@
 
   </tr>
 </table>
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+
 
 <h4 align="left">Visitor's count :eyes:</h4>
 
