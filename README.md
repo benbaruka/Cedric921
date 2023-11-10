@@ -154,8 +154,3 @@
 
   </tr>
 </table>
-
-<br/>
-<h4 align="left">Visitor's count :eyes:</h4>
-
-<p align="left"><img src="https://profile-counter.glitch.me/{benbaruka}/count.svg" alt="roland :: Visitor's Count" /></p>
