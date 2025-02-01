@@ -3,8 +3,8 @@
 <h5 align="left"><em>A passionate fulstack developer </em></h5>
 
 
-- 🔭 I’m currently learning Node.js;
-- 🔭 I’m currently use MERN stack;
+
+
 - 🌱 I’m currently experimenting the web and mobile ecosystem
 - 👯 I’m looking to collaborate on solving problems with software and open source projects;
 - 💬 Ask me about anything web, I might have a hint; 
